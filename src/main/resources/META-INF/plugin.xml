@@ -1,8 +1,10 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.sanseyooyea.pyocd</id>
-    <name>PyOCD Template</name>
-    <vendor>sanseyooyea</vendor>
+    <name>PyOCD</name>
+    <vendor email="1187586838@qq.com">
+        sanseyooyea
+    </vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
